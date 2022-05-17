@@ -1,0 +1,44 @@
+body{
+  background-color:black;
+}
+
+h1{
+ color:beige;
+  text-align:center;
+  font-size:50px;
+  font-family:Impact, sans-serif;
+  border: dotted 5px beige;
+  width:50%;
+  margin:0px;
+}
+
+#int{
+   padding:10px;
+  margin:auto;
+  width:50%;
+}
+
+.nav{
+  font-size:20px;
+  text-align:center;
+  background-color:white;
+}
+
+.p{
+  float:center;
+  display:inline-block;
+  color:beige;
+  font-size:30px;
+}
+
+#img1{
+  width:500px;
+  height:400px;
+  border:dotted 5px beige;
+  float:right;
+}
+
+.nav:hover{
+  font-size:30px;
+  border:2px dotted black;
+}

@@ -1,0 +1,50 @@
+body{
+  background-color:black;
+}
+
+h1{
+  color:white;
+  text-align:center;
+  font-size:50px;
+  font-family:Impact, sans-serif;
+  border: dotted 5px white;
+  width:20%;
+  margin:0px;
+}
+
+#int{
+  float:center;
+  padding:10px;
+}
+
+#img1{
+  width:500px;
+  height:400px;
+  border:dotted 5px white;
+  float:right;
+}
+
+.p{
+  float:center;
+  display:inline-block;
+  color:white;
+  font-size:20px;
+}
+
+.p2{
+  float:left;
+  color:white;
+  display:block;
+  font-size:20px;
+}
+
+.nav{
+  font-size:20px;
+  text-align:center;
+  background-color:white;
+}
+
+.nav:hover{
+  font-size:30px;
+  border:2px dotted black;
+}
